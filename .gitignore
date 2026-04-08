@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.csv        # raw data files (often too large for GitHub)
+*.tif        # raster files
+.env         # never commit API keys
+.DS_Store    # Mac system file
