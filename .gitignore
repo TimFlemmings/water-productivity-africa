@@ -5,3 +5,4 @@ __pycache__/
 *.tif        # raster files
 .env         # never commit API keys
 .DS_Store    # Mac system file
+.DS_Store
