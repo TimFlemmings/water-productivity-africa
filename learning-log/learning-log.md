@@ -22,7 +22,7 @@ Documenting my transition into the water, agriculture, and digital development s
 
 ### AI course
 
-Chapter 2 · 4/25 units complete
+Chapter 1 · 4/25 units complete
 
 Covering foundations of intelligence and the philosophy of AI. The framing around what "intelligence" actually means — computationally and philosophically — is connecting with a background in philosophy of mind. Makes the material more intuitive than expected.
 
@@ -69,7 +69,7 @@ Curiosity led to initial reading around the project methodology. Not yet underst
 
 ### Next week
 
-- Continue AI course — target chapters 3–4
+- Continue AI course — target chapters 2–3
 - Continue Python course — begin pandas, understand DataFrames
 - Continue World Bank report
 - Explore AQUASTAT database — download a small SSA dataset
@@ -79,37 +79,49 @@ Curiosity led to initial reading around the project methodology. Not yet underst
 
 ---
 
-## Week 2 — [Date]
+## Week 2 — 21 April 2026
 
-**Period:**  
-**Phase:**
+**Period:** 14–21 April 2026  
+**Phase:** Foundation — travel week, lighter pace
+
+### Field observation — La Guajira and the Caribbean coast, Colombia
+
+Spent the week travelling between Santa Marta, Dibulla, and Cartagena. The time in Dibulla and the surrounding La Guajira region was unexpectedly relevant to the direction of this work.
+
+La Guajira sits on the Caribbean coast — high winds, strong waves, intense sun, and intermittent rainfall. It is widely cited as one of the most energy-rich regions in Latin America, with wind and solar potential reportedly sufficient to power all of Colombia twice over. And yet the communities there lack consistent access to food and clean water, rely on cheap oil for electricity, and live in conditions far removed from that potential.
+
+This is a concrete version of the development problem this work is oriented around: the gap between available natural resources and the ability of communities to access and benefit from them. The barriers aren't purely technical — they involve energy company interests, governance, investment, and political economy. Seeing it directly rather than reading about it in a report sharpens the motivation behind the analytical work.
+
+The same dynamic appeared in Cartagena — a city experiencing power cuts during the FICCI film festival, with local shopkeepers describing ongoing outages, in a region sitting next to vast renewable energy sources. If infrastructure gaps affect visible, relatively developed urban settings this acutely, the implications for rural and remote communities are considerably more severe.
+
+*This is not yet connected to the core project methodology, but it is relevant context for understanding why agricultural water management and energy access are interlinked development challenges — particularly in Latin America and SSA.*
 
 ### AI course
 
-[Chapter · units complete]  
-[Key concepts covered]
+Chapter 3 · in progress  
+*Real World AI* — covering how AI is applied to practical problem-solving. The section on search and problem-solving clicked particularly well: currently playing chess on Duolingo, which almost certainly uses the same kind of decision-tree logic described in the chapter — mapping possible moves as nodes, evaluating paths forward. Seeing the concept in something familiar made the abstraction tangible. Next section: odds and probability.
 
 ### Python
 
-[Current section]  
-[What clicked or what was hard]
+Lists · Part 4 of 7  
+Working through list operations and manipulation. Expect to complete all 7 parts shortly after returning to Berlin. The next logical step after lists is toward functions and then pandas — the bridge to actual data handling.
 
-### Domain reading
+*Still to understand: DataFrames and how pandas structures tabular data. This remains the key milestone before touching any real dataset.*
 
-[Report / paper · source]  
-[Key insight or stat]
+### Domain reading — World Bank *Nourish and Flourish* (continued)
 
-### Started exploring
-
-[Things encountered this week, to understand properly]
+Lighter reading week given the travel. Continued with the report — consolidating the blue/green water framing from week 1 rather than covering significant new ground. The field observations in La Guajira gave some of the earlier statistics a different texture — the report's framing of energy use in irrigation (irrigation responsible for over 15% of agriculture-related greenhouse gas emissions, groundwater pumping accounting for nearly 90% of irrigation's energy use) lands differently after seeing communities running pumps on cheap oil.
 
 ### Resources
 
--
+- World Bank (2025) — *Nourish and Flourish: Water Solutions for a Food-Secure World* — *in progress*
 
 ### Next week
 
--
+- Complete Python lists (parts 5–7)
+- Begin moving toward pandas — understand DataFrames properly
+- Continue AI course — odds and probability section
+- Return to AQUASTAT exploration and World Bank report with more focus back in Berlin
 
 ---
 
