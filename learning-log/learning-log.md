@@ -22,7 +22,7 @@ Documenting my transition into the water, agriculture, and digital development s
 
 ### AI course
 
-Chapter 1 · 4/25 units complete
+Chapter 2 · 4/25 units complete
 
 Covering foundations of intelligence and the philosophy of AI. The framing around what "intelligence" actually means — computationally and philosophically — is connecting with a background in philosophy of mind. Makes the material more intuitive than expected.
 
@@ -69,7 +69,7 @@ Curiosity led to initial reading around the project methodology. Not yet underst
 
 ### Next week
 
-- Continue AI course — target chapters 2–3
+- Continue AI course — target chapters 3–4
 - Continue Python course — begin pandas, understand DataFrames
 - Continue World Bank report
 - Explore AQUASTAT database — download a small SSA dataset
@@ -122,6 +122,56 @@ Lighter reading week given the travel. Continued with the report — consolidati
 - Begin moving toward pandas — understand DataFrames properly
 - Continue AI course — odds and probability section
 - Return to AQUASTAT exploration and World Bank report with more focus back in Berlin
+
+---
+
+## Week 3 — 27 April 2026
+
+**Period:** 22–27 April 2026
+**Phase:** Foundation — back in Berlin, pace picking up
+
+### AI course
+
+Machine learning chapter · 13/25 complete · 50% through the course
+
+A significant milestone — halfway. The machine learning chapter is connecting well with the earlier AI foundations. The progression from rule-based systems to learned patterns is starting to feel like a coherent arc rather than separate topics.
+
+### Python — Kaggle
+
+Lists · Section 7 of 7 — final section in progress
+
+Almost through lists. Planning to revisit loops, list comprehension, strings, and dictionaries in more depth before moving on — the instinct to consolidate before advancing is the right one. These concepts (particularly list comprehension and dictionaries) will come up constantly in data handling work later, so it's worth being comfortable with them now.
+
+*Next milestone: pandas and DataFrames — the bridge to real data work.*
+
+### Domain reading — World Bank *Nourish and Flourish* (continued)
+
+Continued with the report alongside some self-directed exploration prompted by longer-standing interest in water and permaculture. Two projects encountered via Andrew Millison (permaculture farmer, YouTube) stood out:
+
+**Riyadh water recycling system** — Riyadh sources water via energy-intensive desalination from the Persian Gulf. Historically this led to significant pollution, sewage, and water quality problems around the city. The response was a nature-based urban water recycling system: oxygen is initially pumped into degraded water bodies to restore them, tree-based marsh areas remove excess nutrients, and the water is cycled repeatedly through the city. Excess water flows downstream for urban farming. A case study in closing the water loop at city scale using ecological methods rather than purely technical infrastructure.
+
+**UN Massive Lake Project — Africa** — a large-scale water harvesting initiative demonstrating receding cultivation: as water levels drop seasonally, farming follows the waterline, using residual moisture stored in reformed land. Land is reshaped to retain and distribute water, keeping basins saturated through the dry season. A low-infrastructure, high-impact approach to food and water security in arid and semi-arid regions.
+
+### Background context worth noting
+
+Interest in water systems and permaculture has been building for 2–3 years — Andrew Millison's work was an early reference point before this career direction had a clear shape. The current transition is partly about finding a professional path into something that was already a genuine area of curiosity. A permaculture design course is on the longer-term horizon as a complement to the analytical and technical work.
+
+This matters for the portfolio framing: the domain interest is not manufactured for career positioning — it has roots.
+
+### Resources
+
+- World Bank (2025) — *Nourish and Flourish: Water Solutions for a Food-Secure World* — *in progress*
+- Andrew Millison — Permaculture YouTube channel — [youtube.com/@andrewmillison](https://www.youtube.com/@andrewmillison)
+- Riyadh water recycling case study — via Millison
+- UN Massive Lake Project — via Millison
+
+### Next week
+
+- Complete Python lists section 7, then consolidate loops, list comprehension, strings, dictionaries
+- Begin pandas — DataFrames
+- Finish AI course (target: this week)
+- Continue World Bank report
+- Return to AQUASTAT exploration
 
 ---
 
