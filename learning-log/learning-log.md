@@ -175,6 +175,52 @@ This matters for the portfolio framing: the domain interest is not manufactured 
 
 ---
 
+## Week 4 — 4 May 2026
+
+**Period:** 28 April – 4 May 2026
+**Phase:** Foundation — AI course complete, full focus shifting to Python
+
+### Milestone — Elements of AI course completed ✓
+
+25/25 units complete · **94% final score**
+
+The course covered the full arc from foundational AI concepts through to machine learning, probability, and real-world applications. Genuinely enjoyed it — particularly the analytical and philosophical discussion points. The question of what it means to *understand* something turned out to be central, not peripheral: getting clarity on that is necessary for understanding why current AI systems are powerful but limited in the ways they are.
+
+Concepts that landed well and worth revisiting over coming weeks:
+- The different types of AI and how long humans have been co-existing with AI systems in various forms
+- Statistical foundations of machine learning — regression, classification, clustering, and neural networks — and why each approach suits different kinds of problems
+- The philosophical framing around intelligence, cognition, and what AI can and cannot do
+
+Key takeaway from the experience: splitting focus across multiple tracks simultaneously slowed progress. Completing this in one dedicated push confirmed that single-track focus works better at this stage.
+
+The course has done its job: built the vocabulary and conceptual framing to engage with AI tools, literature, and methodology discussions in a development context. That foundation is now in place.
+
+### Python — Kaggle
+
+Some progress this week alongside the AI course push. Python has stalled slightly while focus was on completing Elements of AI — that's an honest reflection of bandwidth, not a problem. The plan now is full focus on Python to get back on pace.
+
+*Immediate targets: finish lists, consolidate loops, list comprehension, strings, and dictionaries, then move to pandas.*
+
+### Next steps — Spiced Academy application
+
+Actively applying for a data science and AI course at Spiced Academy in Berlin, funded through the Berlin job centre (Bildungsgutschein). Based on the curriculum, this looks like the right next structured step for building the technical depth this career direction needs — Python, data analysis, machine learning, and applied projects in a structured environment.
+
+This would accelerate the timeline considerably if approved. Fingers crossed.
+
+### Resources
+
+- Elements of AI — [elementsofai.com](https://www.elementsofai.com) — **completed**
+- Spiced Academy — Data Science and AI course — *application in progress*
+
+### Next week
+
+- Full focus on Python — lists, loops, list comprehension, strings, dictionaries
+- Begin pandas as soon as foundations are consolidated
+- Progress Spiced Academy application
+- Return to World Bank report and AQUASTAT when Python pace is restored
+
+---
+
 ## Template — copy for each new week
 
 ```
